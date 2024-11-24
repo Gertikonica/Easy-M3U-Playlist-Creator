@@ -24,18 +24,19 @@ example2: channel with clearkey drm
 
 m3u file from inside:
 
-![3](https://github.com/imrsaleh/Easy-M3U-Playlist-Creator/assets/119083621/04555b70-9952-4fbe-bd4d-13ef8b1cad83)
+![3]7(https://github.com/imrsaleh/Easy-M3U-Playlist-Creator/assets/119083621/04555b70-9952-4fbe-bd4d-13ef8b1cad83)
 
 
 --------------------------------------------------------------
 
 *Features*
 
-1-Channel Information Entry:
+1-Channel Information Entry:get
 
-+Channel Name
++Channel Nameghgg
 
-+Channel Link
++Channel Linknpm install iptv-playlist-generator
+gg
 
 +Group Title
 
